@@ -12,7 +12,8 @@ library(Hmisc)
 ####
 # Analysis of data from Qualis Education in comparison with SJR and JCR 
 # carried out by Prof. Dr. Alejandro C. Frery (UFAL) and Prof. Me. Fabio
-#Gomes Rocha (Unit/ITP) in the scope of research X
+# Gomes Rocha (Unit/ITP) in the scope of research ANALYSIS OF THE 
+# INTERNATIONAL IMPACT OF THE BRAZILIAN BASE QUALIS -- EDUCATION
 ####
 
 #Import Excel Files
